@@ -5,20 +5,20 @@
   "publisher": "suleman-el",
   "description": "A dark theme for programmers who love to stay awake in night but love their eyes xD",
   "author": {
-    "name": "seanmcbreen"
+    "name": "Suleman Elahi"
   },
   "categories": ["Themes"],
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#f3096ff2",
-    "theme": "light"
+    "theme": "dark"
   },
   "engines": {
     "vscode": "^1.46.0"
   },
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/Suleman-Elahi/night-lurker/issues",
+    "url": "https://github.com/Suleman-Elahi/vs-code-flux-intense/issues",
     "email": "sul007@outlook.com"
   },
 "contributes": {
@@ -32,7 +32,7 @@
     },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Suleman-Elahi/night-lurker.git"
+    "url": "https://github.com/Suleman-Elahi/vs-code-flux-intense.git"
   },
-  "homepage": "https://github.com/Suleman-Elahi/night-lurker/README.md"
+  "homepage": "https://github.com/Suleman-Elahi/vs-code-flux-intense/README.md"
 }
